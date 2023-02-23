@@ -30,6 +30,11 @@ export const styles = StyleSheet.create({
     },
     botao: {
         color:"#8938EB"
-    }
+    },
+    imgLogo: {
+        minWidth: "200px",
+        minHeight: "200px",
+      },
+
 
 }) 

@@ -7,6 +7,8 @@ import { styles } from "../config/style";
 export const NextScreen = ({ navigation }) => {
   return (
     <View style={styles.container}>
+
+
       <Text style={styles.titulo}>Funcionou</Text>
 
 
